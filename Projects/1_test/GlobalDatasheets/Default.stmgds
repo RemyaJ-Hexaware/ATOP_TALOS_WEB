@@ -1,0 +1,28 @@
+{
+  "Id": null,
+  "ProjectId": 1,
+  "Name": "Default",
+  "Parameters": [
+    {
+      "Id": 2,
+      "ProjectId": 1,
+      "Key": "GDT_VAL",
+      "Value": "",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 4,
+      "ProjectId": 1,
+      "Key": "GDT_VAL2",
+      "Value": "",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 8,
+      "ProjectId": 1,
+      "Key": "GDT_VAL3",
+      "Value": "",
+      "GlobalSheetId": null
+    }
+  ]
+}
