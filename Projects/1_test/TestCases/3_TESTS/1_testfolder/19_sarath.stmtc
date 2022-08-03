@@ -1,0 +1,29 @@
+[
+  {
+    "TempId": 19,
+    "AUT": "",
+    "Description": "",
+    "StatusKey": "NEW",
+    "isMobile": false,
+    "TestCaseType": 1,
+    "IsExecutable": false,
+    "uri": null,
+    "DataSheet": null,
+    "Scenario": null,
+    "Authentication": null,
+    "TestSteps": [],
+    "Headers": [],
+    "GalenGroups": [],
+    "GalenObjects": [],
+    "GalenSections": [],
+    "TagNames": "",
+    "GRDomainNameandId": null,
+    "qTestTestCaseId": null,
+    "Pester": "",
+    "ExternalDT": null,
+    "ExternalDTSheetName": null,
+    "Name": "sarath",
+    "Created": null,
+    "Modified": null
+  }
+]

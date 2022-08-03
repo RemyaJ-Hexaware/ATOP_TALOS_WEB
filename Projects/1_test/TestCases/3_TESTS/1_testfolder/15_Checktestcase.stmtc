@@ -1,0 +1,96 @@
+[
+  {
+    "TempId": 15,
+    "AUT": "",
+    "Description": "",
+    "StatusKey": "NEW",
+    "isMobile": false,
+    "TestCaseType": 1,
+    "IsExecutable": false,
+    "uri": null,
+    "DataSheet": {
+      "TestCase": null,
+      "Parameters": [
+        {
+          "TempId": 0,
+          "Iterations": [
+            {
+              "Iteration": 1,
+              "Value": "www.google.com",
+              "ParameterId": 29,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 15,
+          "IsEncrypted": false,
+          "IsShared": false,
+          "Name": "DT_first",
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "TempId": 0,
+          "Iterations": [
+            {
+              "Iteration": 1,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 15,
+          "IsEncrypted": false,
+          "IsShared": false,
+          "Name": "Iteration",
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "TempId": 0,
+          "Iterations": [
+            {
+              "Iteration": 1,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 15,
+          "IsEncrypted": false,
+          "IsShared": false,
+          "Name": "Skip",
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "Name": null,
+      "Created": null,
+      "Modified": null
+    },
+    "Scenario": null,
+    "Authentication": null,
+    "TestSteps": [],
+    "Headers": [],
+    "GalenGroups": [],
+    "GalenObjects": [],
+    "GalenSections": [],
+    "TagNames": "",
+    "GRDomainNameandId": null,
+    "qTestTestCaseId": null,
+    "Pester": "",
+    "ExternalDT": null,
+    "ExternalDTSheetName": null,
+    "Name": "Checktestcase",
+    "Created": null,
+    "Modified": null
+  }
+]

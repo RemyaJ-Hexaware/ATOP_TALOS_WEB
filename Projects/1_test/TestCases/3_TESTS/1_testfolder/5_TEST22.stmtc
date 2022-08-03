@@ -1,0 +1,29 @@
+[
+  {
+    "TempId": 5,
+    "AUT": "",
+    "Description": "",
+    "StatusKey": "NEW",
+    "isMobile": false,
+    "TestCaseType": 1,
+    "IsExecutable": false,
+    "uri": null,
+    "DataSheet": null,
+    "Scenario": null,
+    "Authentication": null,
+    "TestSteps": [],
+    "Headers": [],
+    "GalenGroups": [],
+    "GalenObjects": [],
+    "GalenSections": [],
+    "TagNames": "",
+    "GRDomainNameandId": null,
+    "qTestTestCaseId": null,
+    "Pester": "",
+    "ExternalDT": null,
+    "ExternalDTSheetName": null,
+    "Name": "TEST22",
+    "Created": null,
+    "Modified": null
+  }
+]

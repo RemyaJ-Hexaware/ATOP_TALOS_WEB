@@ -1,0 +1,126 @@
+[
+  {
+    "TempId": 16,
+    "AUT": "",
+    "Description": "",
+    "StatusKey": "NEW",
+    "isMobile": false,
+    "TestCaseType": 1,
+    "IsExecutable": true,
+    "uri": "",
+    "DataSheet": {
+      "TestCase": null,
+      "Parameters": [
+        {
+          "TempId": 0,
+          "Iterations": [
+            {
+              "Iteration": 1,
+              "Value": "www.google.com",
+              "ParameterId": 38,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 16,
+          "IsEncrypted": false,
+          "IsShared": false,
+          "Name": "DT_first",
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "TempId": 0,
+          "Iterations": [
+            {
+              "Iteration": 1,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 16,
+          "IsEncrypted": false,
+          "IsShared": false,
+          "Name": "Iteration",
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "TempId": 0,
+          "Iterations": [
+            {
+              "Iteration": 1,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 16,
+          "IsEncrypted": false,
+          "IsShared": false,
+          "Name": "Skip",
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "Name": null,
+      "Created": null,
+      "Modified": null
+    },
+    "Scenario": null,
+    "Authentication": null,
+    "TestSteps": [
+      {
+        "TempId": 40,
+        "StepNumber": 1,
+        "ActionId": 27,
+        "ComponentId": null,
+        "CustomActionId": null,
+        "StepSectionId": 2,
+        "ObjectDictionaryId": null,
+        "ImageRepositoryId": null,
+        "LocatorTypeId": null,
+        "Screenshot": false,
+        "SkipStep": false,
+        "Description": "navigate",
+        "Locator": null,
+        "Value": "www.yahoo.com",
+        "Status": "Pending",
+        "UserSays": null,
+        "BotSays": null,
+        "Parameters": [],
+        "Assertions": [],
+        "APIParams": [],
+        "WaitForCondition": null,
+        "TimeoutWaitForCondition": 0,
+        "IsEncrypted": false,
+        "Breakpoint": false,
+        "Name": null,
+        "Created": null,
+        "Modified": null
+      }
+    ],
+    "Headers": [],
+    "GalenGroups": [],
+    "GalenObjects": [],
+    "GalenSections": [],
+    "TagNames": "",
+    "GRDomainNameandId": null,
+    "qTestTestCaseId": null,
+    "Pester": "",
+    "ExternalDT": null,
+    "ExternalDTSheetName": null,
+    "Name": "xxx",
+    "Created": null,
+    "Modified": null
+  }
+]

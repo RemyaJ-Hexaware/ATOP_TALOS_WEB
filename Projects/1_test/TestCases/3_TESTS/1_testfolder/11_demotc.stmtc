@@ -1,0 +1,134 @@
+[
+  {
+    "TempId": 11,
+    "AUT": "",
+    "Description": "",
+    "StatusKey": "NEW",
+    "isMobile": false,
+    "TestCaseType": 1,
+    "IsExecutable": false,
+    "uri": null,
+    "DataSheet": {
+      "TestCase": null,
+      "Parameters": [
+        {
+          "TempId": 0,
+          "Iterations": [
+            {
+              "Iteration": 1,
+              "Value": "aaa",
+              "ParameterId": 26,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 11,
+          "IsEncrypted": false,
+          "IsShared": false,
+          "Name": "DT_first",
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "TempId": 0,
+          "Iterations": [
+            {
+              "Iteration": 2,
+              "Value": "bbb",
+              "ParameterId": 27,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 11,
+          "IsEncrypted": false,
+          "IsShared": false,
+          "Name": "DT_second",
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "TempId": 0,
+          "Iterations": [
+            {
+              "Iteration": 1,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 2,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 11,
+          "IsEncrypted": false,
+          "IsShared": false,
+          "Name": "Iteration",
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "TempId": 0,
+          "Iterations": [
+            {
+              "Iteration": 1,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 2,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 11,
+          "IsEncrypted": false,
+          "IsShared": false,
+          "Name": "Skip",
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "Name": null,
+      "Created": null,
+      "Modified": null
+    },
+    "Scenario": null,
+    "Authentication": null,
+    "TestSteps": [],
+    "Headers": [],
+    "GalenGroups": [],
+    "GalenObjects": [],
+    "GalenSections": [],
+    "TagNames": "",
+    "GRDomainNameandId": null,
+    "qTestTestCaseId": null,
+    "Pester": "",
+    "ExternalDT": null,
+    "ExternalDTSheetName": null,
+    "Name": "demotc",
+    "Created": null,
+    "Modified": null
+  }
+]

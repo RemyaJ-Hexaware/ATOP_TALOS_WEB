@@ -1,0 +1,434 @@
+[
+  {
+    "TempId": 3,
+    "AUT": "",
+    "Description": "",
+    "StatusKey": "NEW",
+    "isMobile": false,
+    "TestCaseType": 1,
+    "IsExecutable": true,
+    "uri": "",
+    "DataSheet": {
+      "TestCase": null,
+      "Parameters": [
+        {
+          "TempId": 0,
+          "Iterations": [
+            {
+              "Iteration": 1,
+              "Value": "GG",
+              "ParameterId": 5,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 2,
+              "Value": "ROW1",
+              "ParameterId": 5,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 3,
+              "Value": "ROW2",
+              "ParameterId": 5,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 4,
+              "Value": "ROW3",
+              "ParameterId": 5,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 5,
+              "Value": "F",
+              "ParameterId": 5,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 7,
+              "Value": "F",
+              "ParameterId": 5,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 6,
+              "Value": "F",
+              "ParameterId": 5,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 10,
+              "Value": "GGG",
+              "ParameterId": 5,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 3,
+          "IsEncrypted": false,
+          "IsShared": false,
+          "Name": "DT_GEN",
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "TempId": 0,
+          "Iterations": [
+            {
+              "Iteration": 1,
+              "Value": "95.77",
+              "ParameterId": 47,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 3,
+              "Value": "54.45",
+              "ParameterId": 47,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 5,
+              "Value": "1.23",
+              "ParameterId": 47,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 7,
+              "Value": "56.06",
+              "ParameterId": 47,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 6,
+              "Value": "29.57",
+              "ParameterId": 47,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 8,
+              "Value": "79.82",
+              "ParameterId": 47,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 3,
+          "IsEncrypted": false,
+          "IsShared": false,
+          "Name": "DT_ABC",
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "TempId": 0,
+          "Iterations": [
+            {
+              "Iteration": 1,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 2,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 3,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 4,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 5,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 7,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 6,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 8,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 9,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 10,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 11,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 3,
+          "IsEncrypted": false,
+          "IsShared": false,
+          "Name": "Iteration",
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "TempId": 0,
+          "Iterations": [
+            {
+              "Iteration": 1,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 2,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 3,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 4,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 5,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 7,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 6,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 8,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 9,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 10,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 11,
+              "Value": null,
+              "ParameterId": 0,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 3,
+          "IsEncrypted": false,
+          "IsShared": false,
+          "Name": "Skip",
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "Name": null,
+      "Created": null,
+      "Modified": null
+    },
+    "Scenario": null,
+    "Authentication": null,
+    "TestSteps": [
+      {
+        "TempId": 21,
+        "StepNumber": 1,
+        "ActionId": 27,
+        "ComponentId": null,
+        "CustomActionId": null,
+        "StepSectionId": 2,
+        "ObjectDictionaryId": null,
+        "ImageRepositoryId": null,
+        "LocatorTypeId": null,
+        "Screenshot": false,
+        "SkipStep": false,
+        "Description": null,
+        "Locator": null,
+        "Value": "DT_GEN",
+        "Status": "Pending",
+        "UserSays": null,
+        "BotSays": null,
+        "Parameters": [],
+        "Assertions": [],
+        "APIParams": [],
+        "WaitForCondition": null,
+        "TimeoutWaitForCondition": 0,
+        "IsEncrypted": false,
+        "Breakpoint": false,
+        "Name": null,
+        "Created": null,
+        "Modified": null
+      }
+    ],
+    "Headers": [],
+    "GalenGroups": [],
+    "GalenObjects": [],
+    "GalenSections": [],
+    "TagNames": "",
+    "GRDomainNameandId": null,
+    "qTestTestCaseId": null,
+    "Pester": "",
+    "ExternalDT": null,
+    "ExternalDTSheetName": null,
+    "Name": "testcase_demo",
+    "Created": null,
+    "Modified": null
+  }
+]
