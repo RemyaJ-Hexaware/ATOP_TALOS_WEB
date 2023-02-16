@@ -1,0 +1,1 @@
+{"CustomAction":{"id":74,"name":"wefewf","description":null,"code":"//<Mandatory_libraries>\n/**\n * Web Driver imports\n */\ni\nimport org.openqa.selenium.support.ui.WebDriverWait;\nimport org\n/**\n * Mobile Driver imports\n","folderId":61,"type":1,"uuid":"cca1f277-4fc1-4277-a9b5-e20bf87f385a","originalProjectId":0}}
